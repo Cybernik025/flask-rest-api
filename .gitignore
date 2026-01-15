@@ -4,13 +4,9 @@ __pycache__/
 
 # Virtual environment
 venv/
-env/
 
 # Environment variables
 .env
-
-# Docker
-*.log
 
 # Editor/IDE
 .vscode/
